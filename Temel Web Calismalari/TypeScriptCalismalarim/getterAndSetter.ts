@@ -18,5 +18,5 @@ this._isim = name;
 
 let k = new Kisi("mts");
 console.log(k.isim)
-k.isim = "bahar"
+k.isim = "Soydan"
 console.log(k.isim)
